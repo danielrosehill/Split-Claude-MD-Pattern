@@ -1,4 +1,4 @@
-[![Part of the Claude Agent Blueprints Index](https://img.shields.io/badge/Claude%20Agent%20Blueprints-Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![Part of the Claude Agent Blueprints Index](https://img.shields.io/badge/Claude%20Agent%20Blueprints-Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Projects-Index)
 
 # Split CLAUDE.md Pattern
 
@@ -96,4 +96,4 @@ The file categories in the demo are a starting point. Your setup might need diff
 
 ---
 
-For more Claude Code projects, visit [my index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
+For more Claude Code projects, visit [my index](https://github.com/danielrosehill/Claude-Code-Projects-Index).
