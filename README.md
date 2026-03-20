@@ -1,3 +1,5 @@
+[![Part of the Claude Agent Blueprints Index](https://img.shields.io/badge/Claude%20Agent%20Blueprints-Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # Split CLAUDE.md Pattern
 
 A template for structuring your Claude Code persistent configuration (`~/.claude/CLAUDE.md`) as a lean entrypoint that references detailed context files in a `context/` directory.
@@ -91,3 +93,7 @@ demo/
 4. Add or remove context files as needed for your workflow
 
 The file categories in the demo are a starting point. Your setup might need different splits — the principle is simply: keep the entrypoint lean, put details in topic files.
+
+---
+
+For more Claude Code projects, visit [my index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
